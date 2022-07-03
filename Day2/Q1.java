@@ -1,6 +1,6 @@
 package Day2;
 
-public class Q2 {
+public class Q1 {
     public void rotate(int[][] matrix) {
         for(int i=0;i< matrix.length;i++){
             for(int j=i;j< matrix[0].length;j++){
